@@ -1,0 +1,15 @@
+h1 {
+    font-size: 100px;
+    color: red;
+}
+
+div {
+    height: auto;
+    width: 200px;
+    background-color: red;
+}
+
+span {
+    height: 20px;
+    width: auto;
+}
